@@ -1,4 +1,4 @@
-**mobile-app-backend**
+##E-learning mobile-app-backend
 
 **Usage:**
 
@@ -25,4 +25,4 @@
 
 8. Enjoy!
 
-**Link for the FIGMA design: **
+Link for the FIGMA design: <https://www.figma.com/file/14UxovyFTs0lizqHNYdPVJ/E-learning-app-for-UI-kit-(Community)?node-id=1%3A3367>
