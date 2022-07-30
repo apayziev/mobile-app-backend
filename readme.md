@@ -1,4 +1,4 @@
-**Boilerplate to create Django project.**
+**mobile-app-backend**
 
 **Usage:**
 
@@ -8,10 +8,10 @@
 2. `git clone url`
 
 
-3. `virtualenv venv`
+3. `venv env`
 
 
-4. `source venv/bin/activate`
+4. `.\env\Scripts\activate`
 
 
 5. `pip install -r requirments.txt`
@@ -24,4 +24,5 @@
 
 
 8. Enjoy!
-# mobile-app-backend
+
+**Link for the FIGMA design: **
